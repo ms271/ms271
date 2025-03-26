@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @ms271
 - 👀 newbie so no clue as to what i am supposed to do, somewhat interested in lower level coding
 - 🌱 currently focussed on C and C++
-- 💞️ preparing for GSOC
 - 📫 use email to contact me
-- 😄 ?????
-- ⚡ ?????
 
 <!---
 ms271/ms271 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

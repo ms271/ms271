@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ms271
-- 👀 newbie so no clue as to what i am supposed to do, somewhat interested in lower level coding
-- 🌱 currently focussed on C and C++
+- 👀 Interested in lower level coding and Graphics Programming
+- 🌱 currently focussed on C++ and OpenGL
 - 📫 use email to contact me
 
 <!---
